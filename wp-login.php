@@ -984,8 +984,3 @@ try {
 }());
 <?php } ?>
 </script>
-
-<?php
-login_footer();
-break;
-} // end action switch
